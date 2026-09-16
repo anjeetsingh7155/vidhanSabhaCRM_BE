@@ -1,11 +1,11 @@
-import { Router } from "express";
+import { Router, type Request, type Response } from "express";
 import { db } from "../db";
 import { districts } from "../db/schemas/district";
 import { assemblies } from "../db/schemas/assembly";
 
-const router = Router();
+const router: ReturnType<typeof Router> = Router();
 
-router.get("/", async (_req, res) => {
+router.get("/", async (req: Request, res : Response) => {
   try {
     const districtRows = await db.select().from(districts);
     const assemblyRows = await db.select().from(assemblies);
