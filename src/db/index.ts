@@ -9,3 +9,13 @@ const pool = new Pool({
 
 export const db = drizzle(pool);
 
+export async function testDatabase() {
+  try {
+    const result = await db.execute("SELECT 1");
+
+    console.log("✅ Database connected successfully");
+  } catch (error) {
+    console.error("❌ Database connection failed");
+    console.error(error);
+  } 
+}

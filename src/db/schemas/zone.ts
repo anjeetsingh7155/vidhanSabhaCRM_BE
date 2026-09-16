@@ -3,7 +3,7 @@ import { assemblies } from "./assembly";
 import { isNotNull } from "drizzle-orm";
 
 export const zone = pgTable("zone",{
-    id : serial("id").primaryKey(),
+    id : serial("id").primaryKey().notNull(),
     assemblyNumber : integer("assembly_number").notNull().references(()=>assemblies.number),
     zoneNo : integer("zone_no").notNull(),
     zoneName: varchar("zone_name",{length:100}).notNull(),
