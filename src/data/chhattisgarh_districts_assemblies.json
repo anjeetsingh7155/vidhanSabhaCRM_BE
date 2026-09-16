@@ -1,0 +1,1401 @@
+{
+  "state": "Chhattisgarh",
+  "totalDistricts": 33,
+  "totalAssemblyConstituencies": 90,
+  "asOf": "2023 Vidhan Sabha delimitation + 2022 district reorganization",
+  "divisions": [
+    {
+      "division": "Bilaspur",
+      "districts": [
+        {
+          "district": "Bilaspur",
+          "headquarters": "Bilaspur",
+          "assemblies": [
+            {
+              "number": 28,
+              "name": "Takhatpur",
+              "reservation": "GEN",
+              "totalBooths": 288,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 29,
+              "name": "Bilha",
+              "reservation": "GEN",
+              "totalBooths": 320,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 30,
+              "name": "Bilaspur",
+              "reservation": "GEN",
+              "totalBooths": 230,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 31,
+              "name": "Beltara",
+              "reservation": "GEN",
+              "totalBooths": 252,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 32,
+              "name": "Masturi",
+              "reservation": "SC",
+              "totalBooths": 334,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Gaurela-Pendra-Marwahi",
+          "headquarters": "Gaurela",
+          "assemblies": [
+            {
+              "number": 24,
+              "name": "Marwahi",
+              "reservation": "ST",
+              "totalBooths": 242,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Mungeli",
+          "headquarters": "Mungeli",
+          "assemblies": [
+            {
+              "number": 25,
+              "name": "Kota",
+              "reservation": "GEN",
+              "totalBooths": 267,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 26,
+              "name": "Lormi",
+              "reservation": "GEN",
+              "totalBooths": 262,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 27,
+              "name": "Mungeli",
+              "reservation": "SC",
+              "totalBooths": 279,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Janjgir-Champa",
+          "headquarters": "Janjgir",
+          "assemblies": [
+            {
+              "number": 33,
+              "name": "Akaltara",
+              "reservation": "GEN",
+              "totalBooths": 235,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 34,
+              "name": "Janjgir-Champa",
+              "reservation": "GEN",
+              "totalBooths": 220,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 38,
+              "name": "Pamgarh",
+              "reservation": "SC",
+              "totalBooths": 214,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Sakti",
+          "headquarters": "Sakti",
+          "assemblies": [
+            {
+              "number": 35,
+              "name": "Sakti",
+              "reservation": "GEN",
+              "totalBooths": 235,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 36,
+              "name": "Chandrapur",
+              "reservation": "GEN",
+              "totalBooths": 261,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 37,
+              "name": "Jaijaipur",
+              "reservation": "GEN",
+              "totalBooths": 270,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Korba",
+          "headquarters": "Korba",
+          "assemblies": [
+            {
+              "number": 20,
+              "name": "Rampur",
+              "reservation": "ST",
+              "totalBooths": 284,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 21,
+              "name": "Korba",
+              "reservation": "GEN",
+              "totalBooths": 244,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 22,
+              "name": "Katghora",
+              "reservation": "GEN",
+              "totalBooths": 253,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 23,
+              "name": "Pali-Tanakhar",
+              "reservation": "ST",
+              "totalBooths": 300,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Raigarh",
+          "headquarters": "Raigarh",
+          "assemblies": [
+            {
+              "number": 15,
+              "name": "Lailunga",
+              "reservation": "ST",
+              "totalBooths": 282,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 16,
+              "name": "Raigarh",
+              "reservation": "GEN",
+              "totalBooths": 292,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 18,
+              "name": "Kharsia",
+              "reservation": "GEN",
+              "totalBooths": 289,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 19,
+              "name": "Dharamjaigarh",
+              "reservation": "ST",
+              "totalBooths": 281,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Sarangarh-Bilaigarh",
+          "headquarters": "Sarangarh",
+          "assemblies": [
+            {
+              "number": 17,
+              "name": "Sarangarh",
+              "reservation": "SC",
+              "totalBooths": 345,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 43,
+              "name": "Bilaigarh",
+              "reservation": "SC",
+              "totalBooths": 376,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "division": "Surguja",
+      "districts": [
+        {
+          "district": "Surguja",
+          "headquarters": "Ambikapur",
+          "assemblies": [
+            {
+              "number": 9,
+              "name": "Lundra",
+              "reservation": "ST",
+              "totalBooths": 254,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 10,
+              "name": "Ambikapur",
+              "reservation": "GEN",
+              "totalBooths": 282,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 11,
+              "name": "Sitapur",
+              "reservation": "ST",
+              "totalBooths": 245,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Balrampur",
+          "headquarters": "Balrampur",
+          "assemblies": [
+            {
+              "number": 6,
+              "name": "Pratappur",
+              "reservation": "ST",
+              "totalBooths": 296,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 7,
+              "name": "Ramanujganj",
+              "reservation": "ST",
+              "totalBooths": 274,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 8,
+              "name": "Samri",
+              "reservation": "ST",
+              "totalBooths": 265,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Koriya",
+          "headquarters": "Baikunthpur",
+          "assemblies": [
+            {
+              "number": 3,
+              "name": "Baikunthpur",
+              "reservation": "GEN",
+              "totalBooths": 228,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Surajpur",
+          "headquarters": "Surajpur",
+          "assemblies": [
+            {
+              "number": 4,
+              "name": "Premnagar",
+              "reservation": "GEN",
+              "totalBooths": 275,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 5,
+              "name": "Bhatgaon",
+              "reservation": "GEN",
+              "totalBooths": 306,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Jashpur",
+          "headquarters": "Jashpur",
+          "assemblies": [
+            {
+              "number": 12,
+              "name": "Jashpur",
+              "reservation": "ST",
+              "totalBooths": 325,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 13,
+              "name": "Kunkuri",
+              "reservation": "ST",
+              "totalBooths": 278,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 14,
+              "name": "Pathalgaon",
+              "reservation": "ST",
+              "totalBooths": 275,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Manendragarh-Chirmiri-Bharatpur",
+          "headquarters": "Manendragarh",
+          "assemblies": [
+            {
+              "number": 1,
+              "name": "Bharatpur-Sonhat",
+              "reservation": "ST",
+              "totalBooths": 310,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 2,
+              "name": "Manendragarh",
+              "reservation": "GEN",
+              "totalBooths": 156,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "division": "Raipur",
+      "districts": [
+        {
+          "district": "Raipur",
+          "headquarters": "Raipur",
+          "assemblies": [
+            {
+              "number": 47,
+              "name": "Dharsiwa",
+              "reservation": "GEN",
+              "totalBooths": 251,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 48,
+              "name": "Raipur City Gramin",
+              "reservation": "GEN",
+              "totalBooths": 307,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 49,
+              "name": "Raipur City West",
+              "reservation": "GEN",
+              "totalBooths": 265,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 50,
+              "name": "Raipur City North",
+              "reservation": "GEN",
+              "totalBooths": 201,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 51,
+              "name": "Raipur City South",
+              "reservation": "GEN",
+              "totalBooths": 255,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 52,
+              "name": "Arang",
+              "reservation": "SC",
+              "totalBooths": 249,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 53,
+              "name": "Abhanpur",
+              "reservation": "GEN",
+              "totalBooths": 240,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Baloda Bazar",
+          "headquarters": "Baloda Bazar",
+          "assemblies": [
+            {
+              "number": 44,
+              "name": "Kasdol",
+              "reservation": "GEN",
+              "totalBooths": 402,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 45,
+              "name": "Baloda Bazar",
+              "reservation": "GEN",
+              "totalBooths": 306,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 46,
+              "name": "Bhatapara",
+              "reservation": "GEN",
+              "totalBooths": 282,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Mahasamund",
+          "headquarters": "Mahasamund",
+          "assemblies": [
+            {
+              "number": 39,
+              "name": "Saraipali",
+              "reservation": "SC",
+              "totalBooths": 270,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 40,
+              "name": "Basna",
+              "reservation": "GEN",
+              "totalBooths": 286,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 41,
+              "name": "Khallari",
+              "reservation": "GEN",
+              "totalBooths": 277,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 42,
+              "name": "Mahasamund",
+              "reservation": "GEN",
+              "totalBooths": 246,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Gariaband",
+          "headquarters": "Gariaband",
+          "assemblies": [
+            {
+              "number": 54,
+              "name": "Rajim",
+              "reservation": "GEN",
+              "totalBooths": 274,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 55,
+              "name": "Bindrawagarh",
+              "reservation": "ST",
+              "totalBooths": 299,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Dhamtari",
+          "headquarters": "Dhamtari",
+          "assemblies": [
+            {
+              "number": 56,
+              "name": "Sihawa",
+              "reservation": "ST",
+              "totalBooths": 259,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 57,
+              "name": "Kurud",
+              "reservation": "GEN",
+              "totalBooths": 237,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 58,
+              "name": "Dhamtari",
+              "reservation": "GEN",
+              "totalBooths": 257,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "division": "Durg",
+      "districts": [
+        {
+          "district": "Balod",
+          "headquarters": "Balod",
+          "assemblies": [
+            {
+              "number": 59,
+              "name": "Sanjari Balod",
+              "reservation": "GEN",
+              "totalBooths": 258,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 60,
+              "name": "Dondi Lohara",
+              "reservation": "ST",
+              "totalBooths": 270,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 61,
+              "name": "Gunderdehi",
+              "reservation": "GEN",
+              "totalBooths": 286,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Durg",
+          "headquarters": "Durg",
+          "assemblies": [
+            {
+              "number": 62,
+              "name": "Patan",
+              "reservation": "GEN",
+              "totalBooths": 246,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 63,
+              "name": "Durg Gramin",
+              "reservation": "GEN",
+              "totalBooths": 229,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 64,
+              "name": "Durg City",
+              "reservation": "GEN",
+              "totalBooths": 216,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 65,
+              "name": "Bhilai Nagar",
+              "reservation": "GEN",
+              "totalBooths": 167,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 66,
+              "name": "Vaishali Nagar",
+              "reservation": "GEN",
+              "totalBooths": 245,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 67,
+              "name": "Ahiwara",
+              "reservation": "SC",
+              "totalBooths": 259,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Bemetara",
+          "headquarters": "Bemetara",
+          "assemblies": [
+            {
+              "number": 68,
+              "name": "Saja",
+              "reservation": "GEN",
+              "totalBooths": 302,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 69,
+              "name": "Bemetara",
+              "reservation": "GEN",
+              "totalBooths": 269,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 70,
+              "name": "Navagarh",
+              "reservation": "SC",
+              "totalBooths": 299,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Kabirdham",
+          "headquarters": "Kawardha",
+          "assemblies": [
+            {
+              "number": 71,
+              "name": "Pandariya",
+              "reservation": "GEN",
+              "totalBooths": 393,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 72,
+              "name": "Kawardha",
+              "reservation": "GEN",
+              "totalBooths": 411,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Rajnandgaon",
+          "headquarters": "Rajnandgaon",
+          "assemblies": [
+            {
+              "number": 74,
+              "name": "Dongargarh",
+              "reservation": "SC",
+              "totalBooths": 270,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 75,
+              "name": "Rajnandgaon",
+              "reservation": "GEN",
+              "totalBooths": 223,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 76,
+              "name": "Dongargaon",
+              "reservation": "GEN",
+              "totalBooths": 252,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Khairagarh-Chhuikhadan-Gandai",
+          "headquarters": "Khairagarh",
+          "assemblies": [
+            {
+              "number": 73,
+              "name": "Khairagarh",
+              "reservation": "GEN",
+              "totalBooths": 283,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Mohla-Manpur-Ambagarh Chowki",
+          "headquarters": "Mohla",
+          "assemblies": [
+            {
+              "number": 77,
+              "name": "Khujji",
+              "reservation": "GEN",
+              "totalBooths": 261,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 78,
+              "name": "Mohla-Manpur",
+              "reservation": "ST",
+              "totalBooths": 237,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "division": "Bastar",
+      "districts": [
+        {
+          "district": "Kanker",
+          "headquarters": "Kanker",
+          "assemblies": [
+            {
+              "number": 79,
+              "name": "Antagarh",
+              "reservation": "ST",
+              "totalBooths": 221,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 80,
+              "name": "Bhanupratappur",
+              "reservation": "ST",
+              "totalBooths": 266,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 81,
+              "name": "Kanker",
+              "reservation": "ST",
+              "totalBooths": 240,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Kondagaon",
+          "headquarters": "Kondagaon",
+          "assemblies": [
+            {
+              "number": 82,
+              "name": "Keshkal",
+              "reservation": "ST",
+              "totalBooths": 290,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 83,
+              "name": "Kondagaon",
+              "reservation": "ST",
+              "totalBooths": 242,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Narayanpur",
+          "headquarters": "Narayanpur",
+          "assemblies": [
+            {
+              "number": 84,
+              "name": "Narayanpur",
+              "reservation": "ST",
+              "totalBooths": 265,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Bastar",
+          "headquarters": "Jagdalpur",
+          "assemblies": [
+            {
+              "number": 85,
+              "name": "Bastar",
+              "reservation": "ST",
+              "totalBooths": 212,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 86,
+              "name": "Jagdalpur",
+              "reservation": "GEN",
+              "totalBooths": 247,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            },
+            {
+              "number": 87,
+              "name": "Chitrakot",
+              "reservation": "ST",
+              "totalBooths": 240,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Dantewada",
+          "headquarters": "Dantewada",
+          "assemblies": [
+            {
+              "number": 88,
+              "name": "Dantewada",
+              "reservation": "ST",
+              "totalBooths": 273,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Bijapur",
+          "headquarters": "Bijapur",
+          "assemblies": [
+            {
+              "number": 89,
+              "name": "Bijapur",
+              "reservation": "ST",
+              "totalBooths": 245,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        },
+        {
+          "district": "Sukma",
+          "headquarters": "Sukma",
+          "assemblies": [
+            {
+              "number": 90,
+              "name": "Konta",
+              "reservation": "ST",
+              "totalBooths": 233,
+              "blocks": 0,
+              "zones": 0,
+              "flaggedRecords": 0,
+              "notesLogged": 0,
+              "openIssues": 0,
+              "eventsLogged": 0,
+              "totalEntries": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
