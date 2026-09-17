@@ -4,7 +4,7 @@ import { districts } from "./district";
 export const reservationEnum = pgEnum("reservation", ["GEN", "SC", "ST"]);
 
 export const assemblies = pgTable("assemblies", {
-  number: integer("number").primaryKey(),
+  id: integer("id").primaryKey(),
   name: varchar("name", { length: 100 }).notNull(),
   reservation: reservationEnum("reservation").notNull(),
 

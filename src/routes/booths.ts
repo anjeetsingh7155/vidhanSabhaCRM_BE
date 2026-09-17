@@ -17,12 +17,12 @@ boothsRouter.get("/booths/:boothId", async (req:Request, res:Response) => {
   const [booth] = await db.select().from(boothRecords).where(eq(boothRecords.id, boothId));
   if (!booth) return res.status(404).json({ error: "Booth not found" });
   const [Panchayat] = await db.select().from(panchayat).where(eq(panchayat.id, booth.panchayatId));
-  const [mandal] = await db.select().from(mandals).where(eq(mandals.id, panchayat!.mandalId));
+  const [mandal] = await db.select().from(mandals).where(eq(mandals.id, Panchayat!.mandalId));
   const [Zone] = await db.select().from(zone).where(eq(zone.id, mandal!.zoneId));
-  const [assembly] = await db.select().from(assemblies).where(eq(assemblies.number, zone!.assemblyNumber));
+  const [assembly] = await db.select().from(assemblies).where(eq(assemblies.id, zone!.assemblyNumber));
 
   res.json({
-    assembly: { number: assembly!.number, name: assembly!.name },
+    assembly: { number: assembly!.id, name: assembly!.name },
     zone: { id: Zone!.id, zoneName: Zone!.zoneName },
     mandal: { id: mandal!.id, mandalNo: mandal!.mandalNo },
     panchayat: { id: Panchayat!.id, name: Panchayat!.name },

@@ -54,6 +54,9 @@ async function seed() {
           set: { headquarters: d.headquarters, division: division.division },
         })
         .returning();
+      if (!row) {
+        throw new Error(`Failed to upsert district: ${d.district}`);
+      }
       districtCount++;
 
       for (const a of d.assemblies) {
@@ -61,7 +64,7 @@ async function seed() {
           .insert(assemblies)
           .values({ ...a, districtId: row.id })
           .onConflictDoUpdate({
-            target: assemblies.number,
+            target: assemblies.id,
             set: { ...a, districtId: row.id },
           });
         assemblyCount++;

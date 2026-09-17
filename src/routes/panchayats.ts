@@ -15,14 +15,14 @@ panchayatsRouter.get("/panchayats/:panchayatId", async (req, res) => {
   const panchayatId = Number(req.params.panchayatId);
   const [Panchayat] = await db.select().from(panchayat).where(eq(panchayat.id, panchayatId));
   if (!Panchayat) return res.status(404).json({ error: "Panchayat not found" });
-  const [mandal] = await db.select().from(mandals).where(eq(mandals.id, panchayat.mandalId));
+  const [mandal] = await db.select().from(mandals).where(eq(mandals.id, Panchayat.mandalId));
   const [Zone] = await db.select().from(zone).where(eq(zone.id, mandal!.zoneId));
-  const [assembly] = await db.select().from(assemblies).where(eq(assemblies.number, Zone!.assemblyNumber));
+  const [assembly] = await db.select().from(assemblies).where(eq(assemblies.id, Zone!.assemblyNumber));
 
   const boothRows = await db.select().from(boothRecords).where(eq(boothRecords.panchayatId, panchayatId));
 
   res.json({
-    assembly: { number: assembly!.number, name: assembly!.name },
+    assembly: { number: assembly!.id, name: assembly!.name },
     zone: { id: Zone!.id, zoneName: Zone!.zoneName },
     mandal: { id: mandal!.id, mandalNo: mandal!.mandalNo },
     panchayat: { id: Panchayat.id, name: Panchayat.name },

@@ -16,7 +16,7 @@ mandalsRouter.get("/mandals/:mandalId", async (req: Request, res:Response) => {
   const [mandal] = await db.select().from(mandals).where(eq(mandals.id, mandalId));
   if (!mandal) return res.status(404).json({ error: "Mandal not found" });
   const [Zone] = await db.select().from(zone).where(eq(zone.id, mandal.zoneId));
-  const [assembly] = await db.select().from(assemblies).where(eq(assemblies.number, zone!.assemblyNumber));
+  const [assembly] = await db.select().from(assemblies).where(eq(assemblies.id, Zone!.assemblyNumber));
 
   const panchayatRows = await db.select().from(panchayat).where(eq(panchayat.mandalId, mandalId));
   const boothRows = await db.select().from(boothRecords);
@@ -27,8 +27,8 @@ mandalsRouter.get("/mandals/:mandalId", async (req: Request, res:Response) => {
   });
 
   res.json({
-    assembly: { number: assembly!.number, name: assembly!.name },
-    zone: { id: zone!.id, zoneName: zone!.zoneName },
+    assembly: { number: assembly!.id, name: assembly!.name },
+    zone: { id: Zone!.id, zoneName: Zone!.zoneName },
     mandal: { id: mandal.id, mandalNo: mandal.mandalNo, incharge: inchargeOf({ ...mandal, inchargePhones: mandal.inchagePhones }) },
     panchayats: panchayatList,
   });

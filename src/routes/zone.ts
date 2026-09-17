@@ -12,7 +12,7 @@ export const zonesRouter: Router = Router();
 
 zonesRouter.get("/assemblies/:assemblyNumber/zones",async (req:Request,res:Response)=>{
 const assemblyNumber = Number(req.params.assemblyNumber)
-const [assembly] = await db.select().from(assemblies).where(eq(assemblies.number, assemblyNumber));
+const [assembly] = await db.select().from(assemblies).where(eq(assemblies.id, assemblyNumber));
 if(!assembly){
     return res.status(404).json({
         error:"Assembly not found"
@@ -40,7 +40,7 @@ const boothRows = await db.select().from(boothRecords)
     };
   });
 
-  res.json({ assembly: { number: assembly.number, name: assembly.name }, zones: result });
+  res.json({ assembly: { number: assembly.id, name: assembly.name }, zones: result });
 })
 
 
@@ -50,7 +50,7 @@ zonesRouter.get("/zones/:zoneId", async (req:Request, res:Response) => {
   const zoneId = Number(req.params.zoneId);
   const [Zone] = await db.select().from(zone).where(eq(zone.id, zoneId));
   if (!Zone) return res.status(404).json({ error: "Zone not found" });
-  const [assembly] = await db.select().from(assemblies).where(eq(assemblies.number, zone.id));
+  const [assembly] = await db.select().from(assemblies).where(eq(assemblies.id, zone.assemblyNumber));
 
   const mandalRows = await db.select().from(mandals).where(eq(mandals.zoneId, zoneId));
   const panchayatRows = await db.select().from(panchayat);
@@ -72,7 +72,7 @@ zonesRouter.get("/zones/:zoneId", async (req:Request, res:Response) => {
   });
 
   res.json({
-    assembly: { number: assembly!.number, name: assembly!.name },
+    assembly: { number: assembly!.id, name: assembly!.name },
     zone: { id: Zone.id, zoneNo: Zone.zoneNo, zoneName: Zone.zoneName, incharge: inchargeOf({ ...Zone, inchargePhones: Zone.inchargePhones ?? [] }) },
     mandals: mandalList,
   });
