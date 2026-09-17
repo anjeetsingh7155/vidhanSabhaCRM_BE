@@ -426,7 +426,3731 @@
               "notesLogged": 0,
               "openIssues": 0,
               "eventsLogged": 0,
-              "totalEntries": 0
+              "totalEntries": 0,
+              "zoneDetails": [
+                {
+                  "zoneNo": 1,
+                  "zoneName": "Guturama",
+                  "inchargeName": "Mr. Shiv Gupta",
+                  "inchargePhones": [
+                    "7000619102"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Mr. Dipak Beck",
+                      "inchargePhones": [
+                        "9770254024"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Lichirama",
+                          "booths": [
+                            {
+                              "boothNo": 161,
+                              "boothName": "Primary School Lichirama",
+                              "inchargeName": "Mr. Sabalasay Kerkatta",
+                              "inchargePhones": [
+                                "6264828520",
+                                "9131370995"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Guturama",
+                          "booths": [
+                            {
+                              "boothNo": 162,
+                              "boothName": "Primary School Guturama-1",
+                              "inchargeName": "Mr. Harish Namadev",
+                              "inchargePhones": [
+                                "7000859971"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Sunil Ekka",
+                      "inchargePhones": [
+                        "7898268369"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Guturama",
+                          "booths": [
+                            {
+                              "boothNo": 163,
+                              "boothName": "Primary School Guturama-2",
+                              "inchargeName": "Mr. Prins Gupta",
+                              "inchargePhones": [
+                                "9399177377"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Ulakiya",
+                          "booths": [
+                            {
+                              "boothNo": 164,
+                              "boothName": "Primary School Ulakiya-1",
+                              "inchargeName": "Mr. Ashish Ekka",
+                              "inchargePhones": [
+                                "9165807729"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 165,
+                              "boothName": "Primary School Ulakiya-2",
+                              "inchargeName": "Mr. Dalabir Toppo",
+                              "inchargePhones": [
+                                "6261665399"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 166,
+                              "boothName": "Middle School Ulakiya-3",
+                              "inchargeName": "Mr. Ashok Beck",
+                              "inchargePhones": [
+                                "8305479368"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Belaganv",
+                          "booths": [
+                            {
+                              "boothNo": 167,
+                              "boothName": "Primary School Belaganv",
+                              "inchargeName": "Mr. Shivadas",
+                              "inchargePhones": [
+                                "6267942429"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "1 Mr. Mohan Agrawal 2 Rajendr Agraval",
+                      "inchargePhones": [
+                        "7697137482"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Radhapur",
+                          "booths": [
+                            {
+                              "boothNo": 168,
+                              "boothName": "Primary School Radhapur-1",
+                              "inchargeName": "Mr. Suleman",
+                              "inchargePhones": [
+                                "9082881565"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 169,
+                              "boothName": "Primary School Radhapur-2",
+                              "inchargeName": "Mr. Kailash Sih",
+                              "inchargePhones": [
+                                "9575011462"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Pratapagadha",
+                          "booths": [
+                            {
+                              "boothNo": 170,
+                              "boothName": "Middle School Pratapagadha-1",
+                              "inchargeName": "Mr. Sanjay Gupta",
+                              "inchargePhones": [
+                                "9424268685"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 171,
+                              "boothName": "Primary School Pratapagadha-2",
+                              "inchargeName": "Mr. Arshivad Ray",
+                              "inchargePhones": [
+                                "7974244521"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 2,
+                  "zoneName": "Petala",
+                  "inchargeName": "Mr. Sukhadev Ram Bhagat Mr. Sukhadev Ram Bhagat",
+                  "inchargePhones": [
+                    "8827963203"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "1 Mr. Shyamajit Ekka",
+                      "inchargePhones": [
+                        "8319716527"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Petala",
+                          "booths": [
+                            {
+                              "boothNo": 181,
+                              "boothName": "Higher Secondary School Petala-1",
+                              "inchargeName": "Mr. Tapunath Beck",
+                              "inchargePhones": [
+                                "6265451190"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 182,
+                              "boothName": "Upper Primary School Kathabuda, Petala-2",
+                              "inchargeName": "Mr. Ramesh Bada",
+                              "inchargePhones": [
+                                "7999574851"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 183,
+                              "boothName": "Prra.Primary School Patarapara (Additional Room)Petala-3",
+                              "inchargeName": "Mr. Ramakumar Gupta",
+                              "inchargePhones": [
+                                "7489650622"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 184,
+                              "boothName": "Primary School Petala-4",
+                              "inchargeName": "Mr. Satish Behara",
+                              "inchargePhones": [
+                                "7389758520"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Ara",
+                          "booths": [
+                            {
+                              "boothNo": 172,
+                              "boothName": "Primary School Ara-1",
+                              "inchargeName": "Mr. Balitaram",
+                              "inchargePhones": [
+                                "9516365205"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 173,
+                              "boothName": "Primary School Ara-2",
+                              "inchargeName": "Ramaprasad Tirkey",
+                              "inchargePhones": [
+                                "8770180200"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "2 Sushil Kumar Singh",
+                      "inchargePhones": [
+                        "6267454540"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Rajauti",
+                          "booths": [
+                            {
+                              "boothNo": 185,
+                              "boothName": "Primary School Rajauti-1",
+                              "inchargeName": "Mr. Rajesh Kumar Chaihan",
+                              "inchargePhones": [
+                                "9399449515"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 186,
+                              "boothName": "Primary School Rajauti-2",
+                              "inchargeName": "Mr. Mohan Lakra",
+                              "inchargePhones": [
+                                "6263260736"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Mr. Pankaj Dube",
+                      "inchargePhones": [
+                        "8435031070"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Baneya",
+                          "booths": [
+                            {
+                              "boothNo": 174,
+                              "boothName": "Primary School Baneya-1",
+                              "inchargeName": "Mr. Ratan Yadav",
+                              "inchargePhones": [
+                                "9993634104"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 175,
+                              "boothName": "Primary School Baneya-2",
+                              "inchargeName": "Mr. Jems Toppo",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Haradisand",
+                          "booths": [
+                            {
+                              "boothNo": 176,
+                              "boothName": "Primary School Haradisand-1",
+                              "inchargeName": "Sanjay Tirkey",
+                              "inchargePhones": [
+                                "8103832399"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 177,
+                              "boothName": "Primary School Haradisand-2",
+                              "inchargeName": "Niman Taires",
+                              "inchargePhones": [
+                                "97135221874"
+                              ],
+                              "flags": [
+                                "invalid_phone"
+                              ]
+                            },
+                            {
+                              "boothNo": 178,
+                              "boothName": "Primary School Haradisand-3",
+                              "inchargeName": "Devasay Tigga",
+                              "inchargePhones": [
+                                "6268739070"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Silayus Khalkho, Dinesh",
+                      "inchargePhones": [
+                        "8319398900"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Dharamapur",
+                          "booths": [
+                            {
+                              "boothNo": 225,
+                              "boothName": "Primary School Dharamapur",
+                              "inchargeName": "Mr. Anil Barik",
+                              "inchargePhones": [
+                                "6260290802"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Belajora",
+                          "booths": [
+                            {
+                              "boothNo": 226,
+                              "boothName": "Panchayat Building Belajoera",
+                              "inchargeName": "Mr. Dinesh Gupta",
+                              "inchargePhones": [
+                                "6263309758"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Lalitapur",
+                          "booths": [
+                            {
+                              "boothNo": 227,
+                              "boothName": "Primary School Lalitapur",
+                              "inchargeName": "Mr. Brijabhushan Ekka",
+                              "inchargePhones": [
+                                "7723063929"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 228,
+                              "boothName": "Primary School Guraguma",
+                              "inchargeName": "Mr. Rajanath",
+                              "inchargePhones": [
+                                "6260023055"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 3,
+                  "zoneName": "Gerasa",
+                  "inchargeName": "Mr. Dharamapal Agrawal",
+                  "inchargePhones": [
+                    "9926175651"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Mr. Nageshvar Prasad",
+                      "inchargePhones": [
+                        "9340315880"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Saraga",
+                          "booths": [
+                            {
+                              "boothNo": 235,
+                              "boothName": "Primary School Saraga-1",
+                              "inchargeName": "Khirod Yadav",
+                              "inchargePhones": [
+                                "9340887234"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 236,
+                              "boothName": "Primary School Saraga-2",
+                              "inchargeName": "Nageshvar Prasad",
+                              "inchargePhones": [
+                                "9340315880"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Shivanathapur",
+                          "booths": [
+                            {
+                              "boothNo": 237,
+                              "boothName": "Primary School Shivanathapur",
+                              "inchargeName": "Mr. Dilabandhuram",
+                              "inchargePhones": [
+                                "9399414206"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Gerasa",
+                          "booths": [
+                            {
+                              "boothNo": 233,
+                              "boothName": "Primary School Gerasa-1",
+                              "inchargeName": "Mr. Adhinasay",
+                              "inchargePhones": [
+                                "7772044065"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 234,
+                              "boothName": "Primary School Gerasa-2",
+                              "inchargeName": "Mr. Jagadish Nag",
+                              "inchargePhones": [
+                                "79747446670"
+                              ],
+                              "flags": [
+                                "invalid_phone"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Mr. Likheshvar Mithava Ram",
+                      "inchargePhones": [
+                        "9165727335"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Bharatapur",
+                          "booths": [
+                            {
+                              "boothNo": 229,
+                              "boothName": "Primary School Bharatapur",
+                              "inchargeName": "Mr. Mithavaram",
+                              "inchargePhones": [
+                                "8815854408"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Girahuladih",
+                          "booths": [
+                            {
+                              "boothNo": 230,
+                              "boothName": "Sha.Primary School Girahuladih-1",
+                              "inchargeName": "Mr. Vinay Gupta",
+                              "inchargePhones": [
+                                "7697790727"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 231,
+                              "boothName": "Middle School Girahuladih-2",
+                              "inchargeName": "Mr. Ravi Gupta",
+                              "inchargePhones": [
+                                "9340502439"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 232,
+                              "boothName": "Middle School Benai",
+                              "inchargeName": "Mr. Chandrika Yadav",
+                              "inchargePhones": [
+                                "9575013669"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 4,
+                  "zoneName": "Bhusu",
+                  "inchargeName": "Mr. Sunil Mishra",
+                  "inchargePhones": [
+                    "9713935355"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Mr. Shyamanarayan",
+                      "inchargePhones": [
+                        "9713835740",
+                        "6261875893"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Rayakera",
+                          "booths": [
+                            {
+                              "boothNo": 210,
+                              "boothName": "Primary School Bagabuda Rayakera-1",
+                              "inchargeName": "Mr. Aravind Bada",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            },
+                            {
+                              "boothNo": 211,
+                              "boothName": "Primary School Tokopara Rayakera-2",
+                              "inchargeName": "Mr. Umesh Kushavaha",
+                              "inchargePhones": [
+                                "7999918173"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Suresh Yadav",
+                      "inchargePhones": [
+                        "6261875893"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Rayakera",
+                          "booths": [
+                            {
+                              "boothNo": 212,
+                              "boothName": "Primary School Tokopara Rayakera-3",
+                              "inchargeName": "Abid Khan",
+                              "inchargePhones": [
+                                "8959738782"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Bhusu",
+                          "booths": [
+                            {
+                              "boothNo": 213,
+                              "boothName": "Primary School Bhusu-1",
+                              "inchargeName": "Balarup Yadav",
+                              "inchargePhones": [
+                                "8120447324"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 214,
+                              "boothName": "Middle School Bhusu-2",
+                              "inchargeName": "Jariph Ulla Ansari",
+                              "inchargePhones": [
+                                "7067786234"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 215,
+                              "boothName": "Primary School Parasa",
+                              "inchargeName": "Mr. Meghanath Ram",
+                              "inchargePhones": [
+                                "9303182858"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "1.Santosh Gupta",
+                      "inchargePhones": [
+                        "8319627362"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Sahanapur",
+                          "booths": [
+                            {
+                              "boothNo": 216,
+                              "boothName": "Primary School Sahanapur",
+                              "inchargeName": "Mr. Jagadish Pradhan",
+                              "inchargePhones": [
+                                "9981742194"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Rajapuuri",
+                          "booths": [
+                            {
+                              "boothNo": 217,
+                              "boothName": "Primary School Rajapuri",
+                              "inchargeName": "Mr. Manadip Gupta",
+                              "inchargePhones": [
+                                "7447070638"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Bagadoli",
+                          "booths": [
+                            {
+                              "boothNo": 218,
+                              "boothName": "Primary School Bagadoli",
+                              "inchargeName": "Mr. Shivanarayan",
+                              "inchargePhones": [
+                                "9399599383"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Dhekidoli",
+                          "booths": [
+                            {
+                              "boothNo": 219,
+                              "boothName": "Primary School Dhekidoli",
+                              "inchargeName": "Mr. Sudarshan Singh",
+                              "inchargePhones": [
+                                "8379973802"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Mr. Ashish Gupta (Mantu Gupta)",
+                      "inchargePhones": [
+                        "7974992110"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Erand",
+                          "booths": [
+                            {
+                              "boothNo": 220,
+                              "boothName": "Primary School Erand",
+                              "inchargeName": "Mr. Jabal Ram Chaihan",
+                              "inchargePhones": [
+                                "7489359650"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Navapara",
+                          "booths": [
+                            {
+                              "boothNo": 221,
+                              "boothName": "Primary School Navapara",
+                              "inchargeName": "Mr. Sukharam Nagavanshi",
+                              "inchargePhones": [
+                                "9399296105"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Murata",
+                          "booths": [
+                            {
+                              "boothNo": 222,
+                              "boothName": "Primary School Murata",
+                              "inchargeName": "Anup Tirkey",
+                              "inchargePhones": [
+                                "9165462152"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Khadadorana",
+                          "booths": [
+                            {
+                              "boothNo": 223,
+                              "boothName": "Middle School Khadadorana",
+                              "inchargeName": "Mr. Jayaprrakash Gupta",
+                              "inchargePhones": [
+                                "7879392959"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Belajora",
+                          "booths": [
+                            {
+                              "boothNo": 224,
+                              "boothName": "Primary School Sureshapur",
+                              "inchargeName": "Siya Ram",
+                              "inchargePhones": [
+                                "7697693155"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 5,
+                  "zoneName": "Sitapur",
+                  "inchargeName": "Mr. Sandip Gupta",
+                  "inchargePhones": [
+                    "7974374059"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Balaram Bhagat",
+                      "inchargePhones": [
+                        "6268400487"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Sur",
+                          "booths": [
+                            {
+                              "boothNo": 189,
+                              "boothName": "Primary School Sur-1",
+                              "inchargeName": "Vikas Gupta",
+                              "inchargePhones": [
+                                "6268594226"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 190,
+                              "boothName": "Primary School Sur-2",
+                              "inchargeName": "Mr. Sanjay Kumar Ekka",
+                              "inchargePhones": [
+                                "6268433755"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 191,
+                              "boothName": "Primary School Sur-3",
+                              "inchargeName": "Mr. Shyam Lal Paikra",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            },
+                            {
+                              "boothNo": 192,
+                              "boothName": "Middle School Bakharipara Sur-4",
+                              "inchargeName": "Shrimati Nilamani",
+                              "inchargePhones": [
+                                "8103067301"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Premadan Kujur",
+                      "inchargePhones": [
+                        "8269742843"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Nagar Panchayat Sitapur",
+                          "booths": [
+                            {
+                              "boothNo": 193,
+                              "boothName": "Higher Secondary School Sitapur 1",
+                              "inchargeName": "Matalub Alam",
+                              "inchargePhones": [
+                                "8319398839"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 194,
+                              "boothName": "Higher Secondary School Sitapur-2",
+                              "inchargeName": "Anamol Lakra",
+                              "inchargePhones": [
+                                "7772020410"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 195,
+                              "boothName": "Higher Secondary School Sitapur-3",
+                              "inchargeName": "Vishnu Soni",
+                              "inchargePhones": [
+                                "6260098627"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 196,
+                              "boothName": "Primary School Sitapur-4",
+                              "inchargeName": "Mr. Rakesh Kumar Soni",
+                              "inchargePhones": [
+                                "6260627400"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 197,
+                              "boothName": "Primary School Sitapur-5",
+                              "inchargeName": "Mr. Modish Khan",
+                              "inchargePhones": [
+                                "9754252137"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 198,
+                              "boothName": "Primary School Kesala Sitapur-6",
+                              "inchargeName": "Mr. Basant Tirkey",
+                              "inchargePhones": [
+                                "7828034392"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Naresh Baghel",
+                      "inchargePhones": [
+                        "9131460133",
+                        "9406221606"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Sonatarai",
+                          "booths": [
+                            {
+                              "boothNo": 203,
+                              "boothName": "Primary School Sonatarai-1",
+                              "inchargeName": "Mr. Shivabhajan Paikra",
+                              "inchargePhones": [
+                                "7000420140"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 204,
+                              "boothName": "Primary School Sonatarai-2",
+                              "inchargeName": "Mr. Hiral Minj",
+                              "inchargePhones": [
+                                "6268291903"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Bamalaya",
+                          "booths": [
+                            {
+                              "boothNo": 208,
+                              "boothName": "Primary School Bamalaya",
+                              "inchargeName": "Mrs. Sevati",
+                              "inchargePhones": [
+                                "6261669316"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "1. Tilak 2. Gauri 3. Umesh Das",
+                      "inchargePhones": [
+                        "6268653194",
+                        "9752305988",
+                        "8319375999"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Devagadha",
+                          "booths": [
+                            {
+                              "boothNo": 205,
+                              "boothName": "Primary School Boys Devagadha-1",
+                              "inchargeName": "Mr. Tilak Ram",
+                              "inchargePhones": [
+                                "6268653124"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 206,
+                              "boothName": "Primary School Boys Devagadha-2",
+                              "inchargeName": "Mr. Gaurishankar Ram",
+                              "inchargePhones": [
+                                "8982506288"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 207,
+                              "boothName": "Middle School Devagadha-3",
+                              "inchargeName": "Mr. Umesh Das",
+                              "inchargePhones": [
+                                "8312375999"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "1.Nilamani Mahant 2.Suresh Pradhan",
+                      "inchargePhones": [
+                        "9124261325",
+                        "8817216322"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Amatoli",
+                          "booths": [
+                            {
+                              "boothNo": 201,
+                              "boothName": "Primary School Amatoli-1",
+                              "inchargeName": "Mr. Rajesh Paikra",
+                              "inchargePhones": [
+                                "8305217791"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 202,
+                              "boothName": "Primary School Amatoli-2",
+                              "inchargeName": "Rajesh Paikra",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Bhavaradand",
+                          "booths": [
+                            {
+                              "boothNo": 209,
+                              "boothName": "Primary School Bhavaradad",
+                              "inchargeName": "Mr. Badi Ram",
+                              "inchargePhones": [
+                                "9907009485"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Dhelasara",
+                          "booths": [
+                            {
+                              "boothNo": 199,
+                              "boothName": "Primary School Dhelasara-1",
+                              "inchargeName": "Mr. Hemant",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            },
+                            {
+                              "boothNo": 200,
+                              "boothName": "Primary School Dhelasara-2",
+                              "inchargeName": "Nirmal Minj",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Ghanashyam Pradhan",
+                      "inchargePhones": [
+                        "7772874562"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Chalata",
+                          "booths": [
+                            {
+                              "boothNo": 188,
+                              "boothName": "Primary School Chalata",
+                              "inchargeName": "Ghanashyam Pradhan",
+                              "inchargePhones": [
+                                "7772874562"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Likheshvar",
+                      "inchargePhones": [
+                        "8839914696"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Bhithuva",
+                          "booths": [
+                            {
+                              "boothNo": 187,
+                              "boothName": "Primary School Bhithuva",
+                              "inchargeName": "Mr. Vijay Kuumar",
+                              "inchargePhones": [
+                                "8435653898"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 6,
+                  "zoneName": "Keraju",
+                  "inchargeName": "Mr. Surendr Agrawal",
+                  "inchargePhones": [
+                    "8827627000"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Mr. Rajendr Tirkey",
+                      "inchargePhones": [
+                        "7067902053"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Dhodhaganv",
+                          "booths": [
+                            {
+                              "boothNo": 238,
+                              "boothName": "Primary School Dhodhaganv",
+                              "inchargeName": "Jogiram",
+                              "inchargePhones": [
+                                "6261816998"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Tumpa Ram",
+                      "inchargePhones": [
+                        "9617392611"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Dhodhaganv",
+                          "booths": [
+                            {
+                              "boothNo": 239,
+                              "boothName": "Middle School Dhodhaganv",
+                              "inchargeName": "Philip Eka",
+                              "inchargePhones": [
+                                "7067740235"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Banshipur",
+                          "booths": [
+                            {
+                              "boothNo": 179,
+                              "boothName": "Primary School Banshipur",
+                              "inchargeName": "Mr. Tuuumpa Ram",
+                              "inchargePhones": [
+                                "9617392611"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 180,
+                              "boothName": "Ratakhanda",
+                              "inchargeName": "Mr. Runjha Kujur",
+                              "inchargePhones": [
+                                "6265030420"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Mr. Devannad Yadav",
+                      "inchargePhones": [
+                        "7389203494"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Kunamera",
+                          "booths": [
+                            {
+                              "boothNo": 240,
+                              "boothName": "Primary School Kunamera-1",
+                              "inchargeName": "Mr. Ranthu Ram",
+                              "inchargePhones": [
+                                "8103454044"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 241,
+                              "boothName": "Middle School Mudapara Kunamera-2",
+                              "inchargeName": "Anil Tirkey",
+                              "inchargePhones": [
+                                "6267724691"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Etavara",
+                      "inchargePhones": [
+                        "6261045798"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Kunamera",
+                          "booths": [
+                            {
+                              "boothNo": 242,
+                              "boothName": "Primary School Kunamera-3",
+                              "inchargeName": "Mr. Kamala Ekka",
+                              "inchargePhones": [
+                                "6266298268"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 243,
+                              "boothName": "Primary School Kunamera-4",
+                              "inchargeName": "Mr. Ganga Ram",
+                              "inchargePhones": [
+                                "7879463091"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Jhakadai Yadav",
+                      "inchargePhones": [
+                        "6265306110"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Keraju",
+                          "booths": [
+                            {
+                              "boothNo": 244,
+                              "boothName": "Primary School Keraju-1",
+                              "inchargeName": "Mr. Netaram",
+                              "inchargePhones": [
+                                "7747904907"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 245,
+                              "boothName": "Primary School Keraju-2",
+                              "inchargeName": "Mr. Etava Ram",
+                              "inchargePhones": [
+                                "6261045798"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 7,
+                  "zoneName": "Ambikapur-1",
+                  "inchargeName": "Mr. Sanjay Gupta",
+                  "inchargePhones": [
+                    "9340357641"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Mr. Ajay Kumar Singh",
+                      "inchargePhones": [
+                        "9340025162"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Motipur",
+                          "booths": [
+                            {
+                              "boothNo": 1,
+                              "boothName": "Primary School Motipur",
+                              "inchargeName": "Mr. Haribhagat Singh",
+                              "inchargePhones": [
+                                "7828439344"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Baragavan",
+                          "booths": [
+                            {
+                              "boothNo": 2,
+                              "boothName": "Primary School Baragavan-‘1",
+                              "inchargeName": "Mr. Babulal Singh",
+                              "inchargePhones": [
+                                "92620824837"
+                              ],
+                              "flags": [
+                                "invalid_phone"
+                              ]
+                            },
+                            {
+                              "boothNo": 3,
+                              "boothName": "Primary School Baragavan-2",
+                              "inchargeName": "Mr. Nirmal Tirkey",
+                              "inchargePhones": [
+                                "9669724845"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 7,
+                              "boothName": "Primary School Parasapali",
+                              "inchargeName": "Mr. Ganjit Kumar Singh",
+                              "inchargePhones": [
+                                "7000539204"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Navapara Khurd",
+                          "booths": [
+                            {
+                              "boothNo": 4,
+                              "boothName": "Primary School Navapara Khurd",
+                              "inchargeName": "Shivanath Singh",
+                              "inchargePhones": [
+                                "8770302632"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Bhalukachhar",
+                          "booths": [
+                            {
+                              "boothNo": 5,
+                              "boothName": "Primary School Bhalukachhar",
+                              "inchargeName": "Mr. Devasay Topo",
+                              "inchargePhones": [
+                                "9754014024"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Baragai",
+                          "booths": [
+                            {
+                              "boothNo": 6,
+                              "boothName": "Primary School Baragai",
+                              "inchargeName": "Mr. Lalachand",
+                              "inchargePhones": [
+                                "7697520431"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 8,
+                  "zoneName": "Ambikapur-2",
+                  "inchargeName": "Mr. Sanjay Gupta",
+                  "inchargePhones": [
+                    "9340357641"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Mr. Piyush Lakra",
+                      "inchargePhones": [
+                        "9340025162"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Nanadamali",
+                          "booths": [
+                            {
+                              "boothNo": 8,
+                              "boothName": "Primary School Nanadamali",
+                              "inchargeName": "Mr. Manasundar Singh",
+                              "inchargePhones": [
+                                "8450809801"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 9,
+                              "boothName": "Upper Primary School Nanadamali",
+                              "inchargeName": "Mr. Amritalal Lakra",
+                              "inchargePhones": [
+                                "777383730"
+                              ],
+                              "flags": [
+                                "invalid_phone"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Ajit Lakra",
+                      "inchargePhones": [
+                        "9669935595"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Badadamali",
+                          "booths": [
+                            {
+                              "boothNo": 10,
+                              "boothName": "Primary School Badadamali",
+                              "inchargeName": "Mr. Kripashankar Singh",
+                              "inchargePhones": [
+                                "9340383730"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 11,
+                              "boothName": "Upper Primary School Badadamali",
+                              "inchargeName": "Mr. Ajit Lakra",
+                              "inchargePhones": [
+                                "9669935595"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 12,
+                              "boothName": "Primary School Badadamali (Pakajam)",
+                              "inchargeName": "Mr. Jayanandan Lakra",
+                              "inchargePhones": [
+                                "8305589240"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Panpapur",
+                          "booths": [
+                            {
+                              "boothNo": 13,
+                              "boothName": "Primary School Pampapur, Rapa",
+                              "inchargeName": "Mr. Bhabhil Kujur",
+                              "inchargePhones": [
+                                "6261081528"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 9,
+                  "zoneName": "Ambikapur-3",
+                  "inchargeName": "Mr. Sanjay Gupta",
+                  "inchargePhones": [
+                    "9340357641"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Mr. Dhamendr Singh",
+                      "inchargePhones": [
+                        "7974455679"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Khajuri",
+                          "booths": [
+                            {
+                              "boothNo": 14,
+                              "boothName": "Primary School Khajuri",
+                              "inchargeName": "Mr. Ajay Gupta",
+                              "inchargePhones": [
+                                "8770668518"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 15,
+                              "boothName": "Middle School Khajuri",
+                              "inchargeName": "Sumit Manjhavar",
+                              "inchargePhones": [
+                                "6266807333"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Kumharata",
+                          "booths": [
+                            {
+                              "boothNo": 16,
+                              "boothName": "Primary School Kumharata",
+                              "inchargeName": "Mr. Jitendr Singh",
+                              "inchargePhones": [
+                                "7697002932"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Navanagar",
+                          "booths": [
+                            {
+                              "boothNo": 17,
+                              "boothName": "Primary School Navanagar",
+                              "inchargeName": "Mr. Jivan Sai Lakra",
+                              "inchargePhones": [
+                                "6267254366"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 18,
+                              "boothName": "Panchayat Building Navanagar",
+                              "inchargeName": "Mr. Ilanasay Toppo",
+                              "inchargePhones": [
+                                "8120592649"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 10,
+                  "zoneName": "Ambikapur-4",
+                  "inchargeName": "Mr. Sanjay Gupta",
+                  "inchargePhones": [
+                    "9340357641"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Mr. Ramachandr Porte",
+                      "inchargePhones": [
+                        "9165820975"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Rakeli",
+                          "booths": [
+                            {
+                              "boothNo": 19,
+                              "boothName": "Primary School Rakeli",
+                              "inchargeName": "Mr. Rajesh Mahant",
+                              "inchargePhones": [
+                                "9713692244"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Navaparakala",
+                          "booths": [
+                            {
+                              "boothNo": 20,
+                              "boothName": "Primary School Navapara Kala",
+                              "inchargeName": "Mr. Gopilal Paikra",
+                              "inchargePhones": [
+                                "8817099234"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Kuniya Kala",
+                          "booths": [
+                            {
+                              "boothNo": 21,
+                              "boothName": "Primary School Kuniya Kala",
+                              "inchargeName": "Mr. Dhaniram Toppo",
+                              "inchargePhones": [
+                                "9669963078"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Adachi",
+                          "booths": [
+                            {
+                              "boothNo": 22,
+                              "boothName": "Primary School Adachi",
+                              "inchargeName": "Mr. Rajendr Pavale",
+                              "inchargePhones": [
+                                "9165636565"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 11,
+                  "zoneName": "Ambikapur-5",
+                  "inchargeName": "Mr. Sanjay Gupta",
+                  "inchargePhones": [
+                    "9340357641"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Mr. Muneshvar Bakhla",
+                      "inchargePhones": [
+                        "9399151264"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Karra",
+                          "booths": [
+                            {
+                              "boothNo": 23,
+                              "boothName": "Primary School Karra",
+                              "inchargeName": "Mr. Rajendr Toppo",
+                              "inchargePhones": [
+                                "8815386632"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 24,
+                              "boothName": "Middle School Karra",
+                              "inchargeName": "Mr. Budharam Nagesh",
+                              "inchargePhones": [
+                                "8462089469"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Maheshapur",
+                          "booths": [
+                            {
+                              "boothNo": 25,
+                              "boothName": "Primary School Maheshapur (Tihapatara)",
+                              "inchargeName": "Mr. Dhadharu Minj",
+                              "inchargePhones": [
+                                "6262385784"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Podaikala",
+                          "booths": [
+                            {
+                              "boothNo": 26,
+                              "boothName": "Primary School Podikala-1",
+                              "inchargeName": "Mr. Ramesh Bakhla",
+                              "inchargePhones": [
+                                "9754696243"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 27,
+                              "boothName": "Primary School Podikala-2",
+                              "inchargeName": "Tiharu Khalkho",
+                              "inchargePhones": [
+                                "6266726254"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 12,
+                  "zoneName": "Bandana",
+                  "inchargeName": "Mr. Ganesh Soni",
+                  "inchargePhones": [
+                    "9685690685"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Mr. Ambika",
+                      "inchargePhones": [
+                        "9174142419"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Karabel",
+                          "booths": [
+                            {
+                              "boothNo": 97,
+                              "boothName": "Primary School Karabel",
+                              "inchargeName": "Mr. Vinip Gupta",
+                              "inchargePhones": [
+                                "7987468611"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Jajaga",
+                          "booths": [
+                            {
+                              "boothNo": 98,
+                              "boothName": "Jajaga-1 (Primary School Jamadih)",
+                              "inchargeName": "Mr. Balajit Ram",
+                              "inchargePhones": [
+                                "8959806411"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 99,
+                              "boothName": "Primary School Jajaga-2",
+                              "inchargeName": "Mr. Koreleliyus Khalkho",
+                              "inchargePhones": [
+                                "7999619524"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 100,
+                              "boothName": "Middle School Jajaga-3",
+                              "inchargeName": "Mr. Vijay Kujur",
+                              "inchargePhones": [
+                                "6266369444"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Udumakela",
+                          "booths": [
+                            {
+                              "boothNo": 101,
+                              "boothName": "Primary School Udumakela-1",
+                              "inchargeName": "Mr. Anil Kumar Khess",
+                              "inchargePhones": [
+                                "8839615428"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 102,
+                              "boothName": "Primary School Dadumakela-2",
+                              "inchargeName": "Mr. Niranjan Tirkey",
+                              "inchargePhones": [
+                                "7566399195"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Mr. Pratik Soni (Laki Soni)",
+                      "inchargePhones": [
+                        "9981963045"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Bandana",
+                          "booths": [
+                            {
+                              "boothNo": 103,
+                              "boothName": "Primary School Bandana-1",
+                              "inchargeName": "Mr. Krishn Manohar Singh",
+                              "inchargePhones": [
+                                "7770840438"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 104,
+                              "boothName": "Primary School Bandana-2",
+                              "inchargeName": "Mr. Mannuram Lakra",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Kot",
+                          "booths": [
+                            {
+                              "boothNo": 105,
+                              "boothName": "Primary School Baigapara-Kot",
+                              "inchargeName": "Mr. Pratik Kumar Soni",
+                              "inchargePhones": [
+                                "9981963045"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 106,
+                              "boothName": "Sha.Prra.Sha. Kot",
+                              "inchargeName": "Mr. Kishor Gupta",
+                              "inchargePhones": [
+                                "9644380410"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 107,
+                              "boothName": "Middle School Kot",
+                              "inchargeName": "Mr. Amit Singhal",
+                              "inchargePhones": [
+                                "9131022510"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 13,
+                  "zoneName": "Narmadapur",
+                  "inchargeName": "Mr. Atal Bihari Yadav",
+                  "inchargePhones": [
+                    "94252545509"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Dina Yadav",
+                      "inchargePhones": [
+                        "9131233515"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Narmadapur",
+                          "booths": [
+                            {
+                              "boothNo": 133,
+                              "boothName": "Haiskul Narmadapur",
+                              "inchargeName": "Mr. Narendr Yadav",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            },
+                            {
+                              "boothNo": 134,
+                              "boothName": "Dayanand Englo Vaidik Mukhyami Pablik Skul Narmadapur",
+                              "inchargeName": "Mr. Satyanarayan Yadav",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            },
+                            {
+                              "boothNo": 135,
+                              "boothName": "Panchayat Building Narmadapur",
+                              "inchargeName": "Mr. Bhinasariha",
+                              "inchargePhones": [
+                                "9340386718"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 137,
+                              "boothName": "Primary School Bhavan Harijanapara (Narmadapur)",
+                              "inchargeName": "Mr. Dinesh Kumar Dohare",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            },
+                            {
+                              "boothNo": 138,
+                              "boothName": "Primary School Majhapara 2 (Narmadapur)",
+                              "inchargeName": "1 Santosh Minj 2 Viliyam",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Uranga",
+                          "booths": [
+                            {
+                              "boothNo": 136,
+                              "boothName": "Primary School Kandaraja",
+                              "inchargeName": "Mr. Satyaprakash Yadav",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Mr. Nathuni Yadav",
+                      "inchargePhones": [
+                        "9479279051"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Barima",
+                          "booths": [
+                            {
+                              "boothNo": 131,
+                              "boothName": "Primary School Barima",
+                              "inchargeName": "Mr. Ramabali Yadav",
+                              "inchargePhones": [
+                                "9098399555"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Uranga",
+                          "booths": [
+                            {
+                              "boothNo": 132,
+                              "boothName": "Primary School Uranga",
+                              "inchargeName": "Mr. Ganbhir Das",
+                              "inchargePhones": [
+                                "9399468173"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Mr. Shyamalal Yavad",
+                      "inchargePhones": [
+                        "9179102052"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Bisarapani",
+                          "booths": [
+                            {
+                              "boothNo": 118,
+                              "boothName": "Primary School Bisarapani",
+                              "inchargeName": "Mr. Ramachandr Yavad",
+                              "inchargePhones": [
+                                "8678203132"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Karamha",
+                          "booths": [
+                            {
+                              "boothNo": 119,
+                              "boothName": "Primary School Karamha",
+                              "inchargeName": "Mahavir Yadav",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Samaniya",
+                          "booths": [
+                            {
+                              "boothNo": 115,
+                              "boothName": "Primary School Samaniya",
+                              "inchargeName": "Mr. Pradeep Minj",
+                              "inchargePhones": [
+                                "8819907815"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Amaganv",
+                          "booths": [
+                            {
+                              "boothNo": 117,
+                              "boothName": "Primary School Amaganv",
+                              "inchargeName": "Mr. Amrit Lal Yadav",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Mr. Shiv Kumar",
+                      "inchargePhones": [
+                        "7898351609"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Paiga",
+                          "booths": [
+                            {
+                              "boothNo": 121,
+                              "boothName": "Primary School Paiga",
+                              "inchargeName": "Mr. Gopal Ekka",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Asagavan",
+                          "booths": [
+                            {
+                              "boothNo": 122,
+                              "boothName": "Primary School Asaganva",
+                              "inchargeName": "Mr. Shivakumar",
+                              "inchargePhones": [
+                                "9752935809"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Supalaga",
+                          "booths": [
+                            {
+                              "boothNo": 120,
+                              "boothName": "Primary School Supalaga",
+                              "inchargeName": "Mr. Sudin Rajwade",
+                              "inchargePhones": [
+                                "9993273339"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 14,
+                  "zoneName": "Kuniya",
+                  "inchargeName": "Mr. Nageshvar Yadav",
+                  "inchargePhones": [
+                    "9685646399"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Manasay Minj",
+                      "inchargePhones": [
+                        "7067524467"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Kuniya",
+                          "booths": [
+                            {
+                              "boothNo": 108,
+                              "boothName": "Primary School Kuniya",
+                              "inchargeName": "Baskinath",
+                              "inchargePhones": [
+                                "9340670192"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 109,
+                              "boothName": "Primary School Kuniya",
+                              "inchargeName": "Mr. Shravan Yadav",
+                              "inchargePhones": [
+                                "6266245307"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Kalajiva",
+                          "booths": [
+                            {
+                              "boothNo": 114,
+                              "boothName": "Primary School Kalajiva",
+                              "inchargeName": "Mr. Hariram",
+                              "inchargePhones": [
+                                "931273657"
+                              ],
+                              "flags": [
+                                "invalid_phone"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Asakara",
+                          "booths": [
+                            {
+                              "boothNo": 112,
+                              "boothName": "Primary School Asakara",
+                              "inchargeName": "Mr. Sonu Yadav",
+                              "inchargePhones": [
+                                "7067736132"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Ganesh Yadav",
+                      "inchargePhones": [],
+                      "panchayats": [
+                        {
+                          "name": "Ropakhar",
+                          "booths": [
+                            {
+                              "boothNo": 110,
+                              "boothName": "Primary School Pakaripara",
+                              "inchargeName": "Mr. Sajit Khan",
+                              "inchargePhones": [
+                                "8305513854"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 111,
+                              "boothName": "Primary School Avaradand",
+                              "inchargeName": "Ehasan Ulla",
+                              "inchargePhones": [
+                                "8103798822"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Sapanadar",
+                          "booths": [
+                            {
+                              "boothNo": 113,
+                              "boothName": "Primary School Sapanadar",
+                              "inchargeName": "Mr. Ganesh Yadav",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Luraina",
+                          "booths": [
+                            {
+                              "boothNo": 128,
+                              "boothName": "Middle School Luraina",
+                              "inchargeName": "Mr. Ram Yadav",
+                              "inchargePhones": [
+                                "6268123902"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 15,
+                  "zoneName": "Kisara",
+                  "inchargeName": "Mr. Dudhanath Yadav",
+                  "inchargePhones": [
+                    "9131889547"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Mr. Jikki Gupta",
+                      "inchargePhones": [
+                        "9131671039"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Sarabhanja",
+                          "booths": [
+                            {
+                              "boothNo": 124,
+                              "boothName": "Primary School Sarabhanja",
+                              "inchargeName": "Mr. Jitendr Tirkey",
+                              "inchargePhones": [
+                                "9399464480"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Suraju Yadav",
+                      "inchargePhones": [
+                        "9399582722"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Parapatiya",
+                          "booths": [
+                            {
+                              "boothNo": 123,
+                              "boothName": "Primary School Parapatiya",
+                              "inchargeName": "Mr. Ramanarayan Yadav",
+                              "inchargePhones": [
+                                "9589783071"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Bhola Yadav (Jangalapara)",
+                      "inchargePhones": [
+                        "7869787231"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Kudaridih",
+                          "booths": [
+                            {
+                              "boothNo": 130,
+                              "boothName": "Primary School Kudaridih",
+                              "inchargeName": "Mr. Jagapal Singh",
+                              "inchargePhones": [
+                                "75098399555"
+                              ],
+                              "flags": [
+                                "invalid_phone"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Manoj Yadav, Puran Singh",
+                      "inchargePhones": [
+                        "9713910539",
+                        "9340631344"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Kamaleshvarapur",
+                          "booths": [
+                            {
+                              "boothNo": 129,
+                              "boothName": "Primary School Kamaleshvarapur",
+                              "inchargeName": "Manoj Yadav",
+                              "inchargePhones": [
+                                "9713910539"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Dudhanath Yadav",
+                      "inchargePhones": [],
+                      "panchayats": [
+                        {
+                          "name": "Kadanai",
+                          "booths": [
+                            {
+                              "boothNo": 116,
+                              "boothName": "Primary School Kadanai",
+                              "inchargeName": "Mr. Sarvajit Paikra",
+                              "inchargePhones": [
+                                "6260111322"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Bandhananath",
+                      "inchargePhones": [
+                        "9399443048"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Kesara",
+                          "booths": [
+                            {
+                              "boothNo": 126,
+                              "boothName": "Primary School Kesara",
+                              "inchargeName": "Mr. Munna Dora",
+                              "inchargePhones": [
+                                "7999967096"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 127,
+                              "boothName": "Middle School Kesara (Patharai)",
+                              "inchargeName": "Mr. Sanyasi Bhoy",
+                              "inchargePhones": [
+                                "9340038595"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Vishnu Yadav",
+                      "inchargePhones": [],
+                      "panchayats": [
+                        {
+                          "name": "Laleya",
+                          "booths": [
+                            {
+                              "boothNo": 125,
+                              "boothName": "Primary School Laleya",
+                              "inchargeName": "Mr. Vishnu Yadav",
+                              "inchargePhones": [
+                                "9340154834"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 16,
+                  "zoneName": "Mainpat Tarai",
+                  "inchargeName": "Mr. Baddarudin Eraki",
+                  "inchargePhones": [
+                    "9424260610"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Mr. Lalajit",
+                      "inchargePhones": [
+                        "9340690648"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Rajakheta",
+                          "booths": [
+                            {
+                              "boothNo": 139,
+                              "boothName": "Primary School Rajakheta",
+                              "inchargeName": "Adhik Ram",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Katakalo",
+                          "booths": [
+                            {
+                              "boothNo": 140,
+                              "boothName": "Primary School Katakalo",
+                              "inchargeName": "Amit Tigga",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            },
+                            {
+                              "boothNo": 141,
+                              "boothName": "Primary School Bhavan Dhakanapara-Katakalo",
+                              "inchargeName": "Sandip Khess",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            },
+                            {
+                              "boothNo": 142,
+                              "boothName": "Primary School Dumarapara1 (Katakalo)",
+                              "inchargeName": "Kannilal",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            },
+                            {
+                              "boothNo": 143,
+                              "boothName": "Primary School Dhakanapara- Katakalo",
+                              "inchargeName": "Mr. Ajay Kumar",
+                              "inchargePhones": [
+                                "8770285683"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Chainapur",
+                          "booths": [
+                            {
+                              "boothNo": 146,
+                              "boothName": "Middle School Chainapur",
+                              "inchargeName": "Tej Kumar",
+                              "inchargePhones": [
+                                "6266135846"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Karam Sai",
+                      "inchargePhones": [
+                        "6264816698",
+                        "9669948453"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Khadagavan",
+                          "booths": [
+                            {
+                              "boothNo": 144,
+                              "boothName": "Primary School Khadaganv-1",
+                              "inchargeName": "Mr. Karn Kumar Sadavarti",
+                              "inchargePhones": [
+                                "7587241445"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 145,
+                              "boothName": "Middle School Khadaganv-2",
+                              "inchargeName": "Gautam Kolata",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Maharanipur",
+                          "booths": [
+                            {
+                              "boothNo": 149,
+                              "boothName": "Primary School Maharanipur",
+                              "inchargeName": "Amit Khess",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Salainaragar",
+                          "booths": [
+                            {
+                              "boothNo": 150,
+                              "boothName": "Primary School Salainagar",
+                              "inchargeName": "Mr. Vijay Bakhla",
+                              "inchargePhones": [
+                                "9993802243"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Rajapur",
+                          "booths": [
+                            {
+                              "boothNo": 160,
+                              "boothName": "Primary School Rajapur",
+                              "inchargeName": "Mr. Lohar Sai",
+                              "inchargePhones": [
+                                "6261118343"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Mr. Jalil Khan",
+                      "inchargePhones": [
+                        "9098412756"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Pidiya",
+                          "booths": [
+                            {
+                              "boothNo": 147,
+                              "boothName": "Primary School Pidiya",
+                              "inchargeName": "Mr. Ravishankar",
+                              "inchargePhones": [
+                                "6268050910"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Pent",
+                          "booths": [
+                            {
+                              "boothNo": 148,
+                              "boothName": "Primary School Pent",
+                              "inchargeName": "Mr. Badarudin Khan",
+                              "inchargePhones": [
+                                "895995382"
+                              ],
+                              "flags": [
+                                "invalid_phone"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Chidapara",
+                          "booths": [
+                            {
+                              "boothNo": 151,
+                              "boothName": "Primary School Chidapara",
+                              "inchargeName": "Mr. Shimon Lakra",
+                              "inchargePhones": [
+                                "6268269524"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Kunakurikhurd",
+                          "booths": [
+                            {
+                              "boothNo": 152,
+                              "boothName": "Primary School Kunakuri Khurd",
+                              "inchargeName": "Mr. Keval",
+                              "inchargePhones": [
+                                "7828257465"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Ramanivas Gupta",
+                      "inchargePhones": [
+                        "9993318522",
+                        "9111364198"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Kotachhal",
+                          "booths": [
+                            {
+                              "boothNo": 153,
+                              "boothName": "Primary School Bilaidhodhi (Kotachhal)",
+                              "inchargeName": "Mr. Ashok Kumar Sahu",
+                              "inchargePhones": [
+                                "6267844751"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 154,
+                              "boothName": "Primary School Bilaidhodhi (Kotachhal)",
+                              "inchargeName": "Dhaniram Bada",
+                              "inchargePhones": [
+                                "6266617248"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Jamakani",
+                          "booths": [
+                            {
+                              "boothNo": 155,
+                              "boothName": "Primary School Jamakani",
+                              "inchargeName": "Mr. Ramakumar Paikra",
+                              "inchargePhones": [
+                                "7610202826"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Harramar",
+                          "booths": [
+                            {
+                              "boothNo": 156,
+                              "boothName": "Primary School Harramar",
+                              "inchargeName": "Dilip Lakra",
+                              "inchargePhones": [
+                                "7440336933"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Jamadhodhi",
+                          "booths": [
+                            {
+                              "boothNo": 157,
+                              "boothName": "Primary School Jamadhodhi",
+                              "inchargeName": "Dhamendr Bada",
+                              "inchargePhones": [
+                                "7987928631"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Dangabuda",
+                          "booths": [
+                            {
+                              "boothNo": 158,
+                              "boothName": "Primary School Dangabuda-1",
+                              "inchargeName": "Mohan Lal Topo",
+                              "inchargePhones": [
+                                "6263596106"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 159,
+                              "boothName": "Primary School Dangabuda-2",
+                              "inchargeName": "Rajakumar Eka",
+                              "inchargePhones": [
+                                "8461802433"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 17,
+                  "zoneName": "Batouli",
+                  "inchargeName": "Ram Prasad",
+                  "inchargePhones": [
+                    "9399533917"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Adiyaram (Belakota)",
+                      "inchargePhones": [
+                        "8120983254"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Gahila",
+                          "booths": [
+                            {
+                              "boothNo": 28,
+                              "boothName": "Primary School Gahila (Darripara)",
+                              "inchargeName": "Mr. Nandalal",
+                              "inchargePhones": [
+                                "9965833676"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 29,
+                              "boothName": "Primary School Gahila (Korakotapara)",
+                              "inchargeName": "Mr. Janak Sai",
+                              "inchargePhones": [
+                                "9424251677"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Belakota",
+                          "booths": [
+                            {
+                              "boothNo": 30,
+                              "boothName": "Primary School Belakota",
+                              "inchargeName": "Mr. Lokanath",
+                              "inchargePhones": [
+                                "9669913214"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Jharagavan",
+                          "booths": [
+                            {
+                              "boothNo": 31,
+                              "boothName": "Primary School Jharagavan",
+                              "inchargeName": "Baijuram",
+                              "inchargePhones": [
+                                "7049665353"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 32,
+                              "boothName": "Primary School Umapur",
+                              "inchargeName": "Vinod Kujur",
+                              "inchargePhones": [
+                                "9753275522"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Chheratu Das (Manja)",
+                      "inchargePhones": [
+                        "9131444454"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Manja",
+                          "booths": [
+                            {
+                              "boothNo": 33,
+                              "boothName": "Primary School Manja",
+                              "inchargeName": "Gurucharan Das",
+                              "inchargePhones": [
+                                "6261388636"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Kalipur",
+                          "booths": [
+                            {
+                              "boothNo": 34,
+                              "boothName": "Primary School Kalipur",
+                              "inchargeName": "Bigan Ram/Ghudaram",
+                              "inchargePhones": [
+                                "8225825957"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Chiranga",
+                          "booths": [
+                            {
+                              "boothNo": 36,
+                              "boothName": "Primary School Chiranga",
+                              "inchargeName": "Tarendr Singh",
+                              "inchargePhones": [
+                                "6260072676"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 37,
+                              "boothName": "Middle School Pahada Chiranga",
+                              "inchargeName": "Binuram",
+                              "inchargePhones": [
+                                "8878093916"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Silas Ram (Laigu)",
+                      "inchargePhones": [
+                        "8817264390"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Karadana",
+                          "booths": [
+                            {
+                              "boothNo": 35,
+                              "boothName": "Primary School Laigu",
+                              "inchargeName": "Bhole Paikra",
+                              "inchargePhones": [
+                                "9573997818"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 38,
+                              "boothName": "Middle School Karadana",
+                              "inchargeName": "En0Biran Khalkho",
+                              "inchargePhones": [
+                                "8120967765"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "inchargeName": "Navin Gupta, Batouli",
+                      "inchargePhones": [
+                        "7974150032"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Bhatako",
+                          "booths": [
+                            {
+                              "boothNo": 39,
+                              "boothName": "Middle School Bhatako",
+                              "inchargeName": "Rajapal/Kujal",
+                              "inchargePhones": [
+                                "9301117000"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 40,
+                              "boothName": "Primary School Lagaru (Bhatako-2)",
+                              "inchargeName": "Mr. John Kerkatta",
+                              "inchargePhones": [
+                                "9174012933"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Kunakurikala",
+                          "booths": [
+                            {
+                              "boothNo": 41,
+                              "boothName": "Primary School Kunakurikala-1",
+                              "inchargeName": "Tophar Minj",
+                              "inchargePhones": [
+                                "7745947005"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 42,
+                              "boothName": "Middle School Kunakuri Kala-2",
+                              "inchargeName": "Brijesh Kumar Lakra",
+                              "inchargePhones": [
+                                "7745947005"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Batouli",
+                          "booths": [
+                            {
+                              "boothNo": 43,
+                              "boothName": "Boys Primary School Batouli-1",
+                              "inchargeName": "Ajay Minj",
+                              "inchargePhones": [
+                                "7000408135"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 44,
+                              "boothName": "Girls.Primary School Batouli-2",
+                              "inchargeName": "Ajit Kumar Gupta",
+                              "inchargePhones": [
+                                "8103446616"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Khadadhova",
+                          "booths": [
+                            {
+                              "boothNo": 45,
+                              "boothName": "Primary School Khadadhova",
+                              "inchargeName": "Sirij Kerkatta",
+                              "inchargePhones": [
+                                "8819996887"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Deori",
+                          "booths": [
+                            {
+                              "boothNo": 46,
+                              "boothName": "Primary School Deori",
+                              "inchargeName": "Ram Prrasad",
+                              "inchargePhones": [
+                                "9111581005"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 18,
+                  "zoneName": "Bilaspur",
+                  "inchargeName": "Bahal Ram",
+                  "inchargePhones": [
+                    "7999971805"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Omaprakash Gupta",
+                      "inchargePhones": [
+                        "7587748300"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Tedaga",
+                          "booths": [
+                            {
+                              "boothNo": 47,
+                              "boothName": "Primary School Tedaga",
+                              "inchargeName": "Keshvar Prasad",
+                              "inchargePhones": [
+                                "7879313387"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Shivapur",
+                          "booths": [
+                            {
+                              "boothNo": 48,
+                              "boothName": "Primary School Shivapur",
+                              "inchargeName": "Upendr Gupta",
+                              "inchargePhones": [
+                                "9131958489"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Manapur",
+                          "booths": [
+                            {
+                              "boothNo": 49,
+                              "boothName": "Primary School Manapur",
+                              "inchargeName": "Bhuneshvar Singh Paikra",
+                              "inchargePhones": [
+                                "7748848595"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Ghoghara",
+                          "booths": [
+                            {
+                              "boothNo": 50,
+                              "boothName": "Primary School Ghoghara-1",
+                              "inchargeName": "Mr. Bahal Ram",
+                              "inchargePhones": [
+                                "7999971805"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 51,
+                              "boothName": "Primary School Ghoghara-2",
+                              "inchargeName": "Mr. Omaprakash Gupta",
+                              "inchargePhones": [
+                                "7587748300"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Bilaspur",
+                          "booths": [
+                            {
+                              "boothNo": 61,
+                              "boothName": "Ba0 Primary School Bilaspur-1",
+                              "inchargeName": "Mr. Dilarakhan",
+                              "inchargePhones": [
+                                "7693938545"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 62,
+                              "boothName": "Ha.Sekendari Skul Bilaspur -2",
+                              "inchargeName": "Mr. Kameshvar Paikra",
+                              "inchargePhones": [
+                                "8770756834"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 19,
+                  "zoneName": "Bansajhal",
+                  "inchargeName": "Mrs. Asha Tirkey",
+                  "inchargePhones": [
+                    "6267631751"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Kishun Paikra (Salyadih)",
+                      "inchargePhones": [
+                        "9399842216"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Salyadih",
+                          "booths": [
+                            {
+                              "boothNo": 52,
+                              "boothName": "Primary School Salyadih",
+                              "inchargeName": "Mr. Subhash Panna",
+                              "inchargePhones": [
+                                "8305870487"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 53,
+                              "boothName": "Primary School Kudakel",
+                              "inchargeName": "Mr. Jay Prakash Ekka",
+                              "inchargePhones": [
+                                "9575477789"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Bansajhal",
+                          "booths": [
+                            {
+                              "boothNo": 54,
+                              "boothName": "Primary School Bansajhal",
+                              "inchargeName": "Pritam Tirkey",
+                              "inchargePhones": [
+                                "6263238281"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Tirang",
+                          "booths": [
+                            {
+                              "boothNo": 55,
+                              "boothName": "Primary School Tirang",
+                              "inchargeName": "Mr. Sukhan Ram",
+                              "inchargePhones": [
+                                "8959923135"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 56,
+                              "boothName": "Primary School Chavarapani",
+                              "inchargeName": "Mr. Phulasay Kujur",
+                              "inchargePhones": [
+                                "8223984808"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 20,
+                  "zoneName": "Boda",
+                  "inchargeName": "Jugeshvar Prasad",
+                  "inchargePhones": [
+                    "9165010160"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Mahesh Bhagat (Ghutarapara)",
+                      "inchargePhones": [
+                        "8889049622"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Salyadih",
+                          "booths": [
+                            {
+                              "boothNo": 57,
+                              "boothName": "Middle School Kachharadih",
+                              "inchargeName": "Mr. Vinod Tirkey",
+                              "inchargePhones": [
+                                "8228027069"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Boda",
+                          "booths": [
+                            {
+                              "boothNo": 58,
+                              "boothName": "Middle School Boda-1",
+                              "inchargeName": "Mr. Arun Gupta 975467964",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            },
+                            {
+                              "boothNo": 59,
+                              "boothName": "Purv Middle School Boda-2",
+                              "inchargeName": "Mr. Raidas Tirkey",
+                              "inchargePhones": [
+                                "8468665335"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Taragi",
+                          "booths": [
+                            {
+                              "boothNo": 60,
+                              "boothName": "Primary School Taragi",
+                              "inchargeName": "Mr. Santosh Tirkey",
+                              "inchargePhones": [
+                                "7084884865"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 69,
+                              "boothName": "Primary School Jarahadih",
+                              "inchargeName": "Mr. Vinod Tirkey",
+                              "inchargePhones": [
+                                "9407634303"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Ghutarapara",
+                          "booths": [
+                            {
+                              "boothNo": 68,
+                              "boothName": "Primary School Ghutarapara",
+                              "inchargeName": "Ramaprasad",
+                              "inchargePhones": [
+                                "9165806712"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Lalati",
+                          "booths": [
+                            {
+                              "boothNo": 70,
+                              "boothName": "Primary School Lalati",
+                              "inchargeName": "Mr. Jagat Ram",
+                              "inchargePhones": [
+                                "8959997072"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Saramana",
+                          "booths": [
+                            {
+                              "boothNo": 71,
+                              "boothName": "Middle School Saramana-1",
+                              "inchargeName": "Mr. Gangaram",
+                              "inchargePhones": [
+                                "7909538969"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 72,
+                              "boothName": "Middle School Saramana-2",
+                              "inchargeName": "Mr. Astok",
+                              "inchargePhones": [
+                                "8319245233"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 21,
+                  "zoneName": "Silama",
+                  "inchargeName": "Lalit Pradhan",
+                  "inchargePhones": [
+                    "9009411534"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Munna (Patharai)",
+                      "inchargePhones": [
+                        "7000676178"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Poparega",
+                          "booths": [
+                            {
+                              "boothNo": 63,
+                              "boothName": "Primary School Poparenga",
+                              "inchargeName": "Mr. Sadaram",
+                              "inchargePhones": [
+                                "9617386591"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Silama",
+                          "booths": [
+                            {
+                              "boothNo": 64,
+                              "boothName": "Primary School Silama",
+                              "inchargeName": "Mr. Kolu Nath",
+                              "inchargePhones": [
+                                "6268384709"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Basen",
+                          "booths": [
+                            {
+                              "boothNo": 65,
+                              "boothName": "Primary School Basen",
+                              "inchargeName": "Mr. Sitaram Sadavarti",
+                              "inchargePhones": [
+                                "8103502621"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 66,
+                              "boothName": "Primary School Patharai",
+                              "inchargeName": "Mr. Sabal Ram",
+                              "inchargePhones": [
+                                "7000717978"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 67,
+                              "boothName": "Primary School Sarasvatipur",
+                              "inchargeName": "Mr. Sharma Prasad",
+                              "inchargePhones": [
+                                "7089078945"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Sedam",
+                          "booths": [
+                            {
+                              "boothNo": 74,
+                              "boothName": "Middle School Sedam",
+                              "inchargeName": "Mr. Lalit Pradhan",
+                              "inchargePhones": [
+                                "9009411534"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 22,
+                  "zoneName": "Suvarapara",
+                  "inchargeName": "Sanjay Singh",
+                  "inchargePhones": [
+                    "9826881939"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Bhagirathi Yadav (Pokasari)",
+                      "inchargePhones": [
+                        "9907234171"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Suvarapara",
+                          "booths": [
+                            {
+                              "boothNo": 73,
+                              "boothName": "Primary School Suvarapara",
+                              "inchargeName": "Mr. Sury Prakash",
+                              "inchargePhones": [
+                                "7746902620"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Govindapur",
+                          "booths": [
+                            {
+                              "boothNo": 75,
+                              "boothName": "Primary School Govindapur",
+                              "inchargeName": "Mr. Bir Vijay Minj",
+                              "inchargePhones": [
+                                "8120455682"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Chiparakaya",
+                          "booths": [
+                            {
+                              "boothNo": 76,
+                              "boothName": "Primary School Chiparakaya",
+                              "inchargeName": "Mr. Jayashankar Namadev",
+                              "inchargePhones": [
+                                "9644173904"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 77,
+                              "boothName": "Primary School Muratadand",
+                              "inchargeName": "Mr. Daroga Yadav",
+                              "inchargePhones": [
+                                "6267717149"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Pokasari",
+                          "booths": [
+                            {
+                              "boothNo": 78,
+                              "boothName": "Primary School Pokasari1",
+                              "inchargeName": "Mr. Bhagirathi Yadav",
+                              "inchargePhones": [
+                                "9907234171"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 80,
+                              "boothName": "Primary School Bhalubar Pokasari-2",
+                              "inchargeName": "Mr. Jayalal Minj",
+                              "inchargePhones": [
+                                "6260325075"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 81,
+                              "boothName": "Primary School Chheratagar Pokasari-3",
+                              "inchargeName": "Mr. Shivabalak Yadav",
+                              "inchargePhones": [
+                                "7697642048"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 23,
+                  "zoneName": "Kapatabahari",
+                  "inchargeName": "Janak Sai",
+                  "inchargePhones": [
+                    "7879467003"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Rajaram Kujur (Mangari)",
+                      "inchargePhones": [
+                        "7803037183"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Balamapur",
+                          "booths": [
+                            {
+                              "boothNo": 79,
+                              "boothName": "Primary School Ratanapur",
+                              "inchargeName": "Mr. Tapunath",
+                              "inchargePhones": [
+                                "9575111258"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 84,
+                              "boothName": "Primary School Dumarabhavana",
+                              "inchargeName": "Dinesh Ram",
+                              "inchargePhones": [
+                                "6266531297"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 95,
+                              "boothName": "Primary School Balamapur",
+                              "inchargeName": "Mr. Rajakumar Ekka",
+                              "inchargePhones": [
+                                "9754406478"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Mangari",
+                          "booths": [
+                            {
+                              "boothNo": 82,
+                              "boothName": "Primary School Junapara Mangari -1",
+                              "inchargeName": "Mr. Jayamangal Bada",
+                              "inchargePhones": [
+                                "8165633412"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 83,
+                              "boothName": "Ba.Primary School Mangari-2",
+                              "inchargeName": "Mr. Lohara Ram",
+                              "inchargePhones": [
+                                "8839719102"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Kapatabahari",
+                          "booths": [
+                            {
+                              "boothNo": 85,
+                              "boothName": "Primary School Kapatabahari",
+                              "inchargeName": "Mr. Brijalal",
+                              "inchargePhones": [],
+                              "flags": [
+                                "missing_phone"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Bishunapur",
+                          "booths": [
+                            {
+                              "boothNo": 96,
+                              "boothName": "Primary School Vishunapur",
+                              "inchargeName": "Mr. Jahid Husain",
+                              "inchargePhones": [
+                                "7679889990"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "zoneNo": 24,
+                  "zoneName": "Maheshapur",
+                  "inchargeName": "Niranjan Singh",
+                  "inchargePhones": [
+                    "8120593032"
+                  ],
+                  "mandals": [
+                    {
+                      "inchargeName": "Jayanath (Nakana)",
+                      "inchargePhones": [
+                        "8827503723"
+                      ],
+                      "panchayats": [
+                        {
+                          "name": "Birimakela",
+                          "booths": [
+                            {
+                              "boothNo": 86,
+                              "boothName": "Primary School Birimakela",
+                              "inchargeName": "Mr. Arjun Singh",
+                              "inchargePhones": [
+                                "7974017014"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 87,
+                              "boothName": "Primary School La Nayabandh",
+                              "inchargeName": "Mr. Santosh Kumar Paikra",
+                              "inchargePhones": [
+                                "8462089822"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Nakana",
+                          "booths": [
+                            {
+                              "boothNo": 88,
+                              "boothName": "Primary School Nakana",
+                              "inchargeName": "Mr. Manohar Singh",
+                              "inchargePhones": [
+                                "8462813592"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Bataikela",
+                          "booths": [
+                            {
+                              "boothNo": 89,
+                              "boothName": "Primary School Bataikela-1",
+                              "inchargeName": "Mr. Ramalakhan Bada",
+                              "inchargePhones": [
+                                "7697405362"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 90,
+                              "boothName": "Primary School Bataikela-2",
+                              "inchargeName": "Mr. Komal Tigga",
+                              "inchargePhones": [
+                                "91653281230"
+                              ],
+                              "flags": [
+                                "invalid_phone"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Maheshapur",
+                          "booths": [
+                            {
+                              "boothNo": 91,
+                              "boothName": "Primary School Maheshapur-1",
+                              "inchargeName": "Mr. Belasan Lakra",
+                              "inchargePhones": [
+                                "9685676672"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 92,
+                              "boothName": "Ma0Sh0 Kasaidih Maheshapur-2",
+                              "inchargeName": "Mr. Mahesh Kumar Singh",
+                              "inchargePhones": [
+                                "8319795033"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Telaidhar",
+                          "booths": [
+                            {
+                              "boothNo": 93,
+                              "boothName": "Primary School Telaidhar",
+                              "inchargeName": "Mr. Shabbir Khan",
+                              "inchargePhones": [
+                                "7999490616"
+                              ],
+                              "flags": []
+                            },
+                            {
+                              "boothNo": 94,
+                              "boothName": "Primary School Putukela Telaidhar-2",
+                              "inchargeName": "Mr. Raghuvir",
+                              "inchargePhones": [
+                                "8120813260"
+                              ],
+                              "flags": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
