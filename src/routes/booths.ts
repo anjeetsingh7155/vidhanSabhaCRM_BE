@@ -19,7 +19,7 @@ boothsRouter.get("/booths/:boothId", async (req:Request, res:Response) => {
   const [Panchayat] = await db.select().from(panchayat).where(eq(panchayat.id, booth.panchayatId));
   const [mandal] = await db.select().from(mandals).where(eq(mandals.id, Panchayat!.mandalId));
   const [Zone] = await db.select().from(zone).where(eq(zone.id, mandal!.zoneId));
-  const [assembly] = await db.select().from(assemblies).where(eq(assemblies.id, zone!.assemblyNumber));
+  const [assembly] = await db.select().from(assemblies).where(eq(assemblies.id, Zone!.assemblyNumber));
 
   res.json({
     assembly: { number: assembly!.id, name: assembly!.name },

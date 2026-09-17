@@ -20,16 +20,28 @@ router.get("/", async (req: Request, res : Response) => {
       districtsByDivision.get(d.division)!.push(d);
     }
 
-    const divisions = divisionOrder.map((division) => ({
-      division,
-      districts: districtsByDivision.get(division)!.map((d) => ({
-        district: d.name,
-        headquarters: d.headquarters,
-        assemblies: assemblyRows
-          .filter((a) => a.districtId === d.id)
-          .map(({ districtId, ...rest }) => rest),
+   const divisions= divisionOrder.map((division) => ({
+  division,
+  districts: districtsByDivision.get(division)!.map((d) => ({
+    district: d.name,
+    headquarters: d.headquarters,
+    assemblies: assemblyRows
+      .filter((a) => a.districtId === d.id)
+      .map((a) => ({
+        number: a.id,
+        name: a.name,
+        reservation: a.reservation,
+        totalBooths: a.totalBooths,
+        blocks: a.blocks,
+        zones: a.zones,
+        flaggedRecords: a.flaggedRecords,
+        notesLogged: a.notesLogged,
+        openIssues: a.openIssues,
+        eventsLogged: a.eventsLogged,
+        totalEntries: a.totalEntries,
       })),
-    }));
+  })),
+}));
 
     res.json({
       state: "Chhattisgarh",

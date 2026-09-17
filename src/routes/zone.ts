@@ -50,7 +50,7 @@ zonesRouter.get("/zones/:zoneId", async (req:Request, res:Response) => {
   const zoneId = Number(req.params.zoneId);
   const [Zone] = await db.select().from(zone).where(eq(zone.id, zoneId));
   if (!Zone) return res.status(404).json({ error: "Zone not found" });
-  const [assembly] = await db.select().from(assemblies).where(eq(assemblies.id, zone.assemblyNumber));
+  const [assembly] = await db.select().from(assemblies).where(eq(assemblies.id, Zone.assemblyNumber));
 
   const mandalRows = await db.select().from(mandals).where(eq(mandals.zoneId, zoneId));
   const panchayatRows = await db.select().from(panchayat);

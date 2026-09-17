@@ -59,18 +59,18 @@ async function seed() {
       }
       districtCount++;
 
-      for (const a of d.assemblies) {
-        await db
-          .insert(assemblies)
-          .values({ ...a, districtId: row.id })
-          .onConflictDoUpdate({
-            target: assemblies.id,
-            set: { ...a, districtId: row.id },
-          });
-        assemblyCount++;
+for (const a of d.assemblies) {
+  await db
+    .insert(assemblies)
+    .values({ ...a, id: a.number, districtId: row.id })
+    .onConflictDoUpdate({
+      target: assemblies.id,
+      set: { ...a, id: a.number, districtId: row.id },
+    });
+  assemblyCount++;
+}
       }
     }
-  }
 
   console.log(`✅ Seeded ${districtCount} districts and ${assemblyCount} assemblies`);
   process.exit(0);
