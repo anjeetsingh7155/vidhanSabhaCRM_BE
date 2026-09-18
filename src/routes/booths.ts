@@ -1,12 +1,12 @@
 import { Router, type Request, type Response } from "express";
-import { boothRecords } from "../db/schemas/boothRecord";
+import { boothRecords } from "../db/schemas/boothRecord.js";
 import { db } from "../db";
 import { eq } from "drizzle-orm";
-import { panchayat } from "../db/schemas/panchayat";
-import { mandals } from "../db/schemas/mandal";
-import { zone } from "../db/schemas/zone";
-import { assemblies } from "../db/schemas/assembly";
-import { inchargeOf } from "../common/functions/inchargeOf";
+import { panchayat } from "../db/schemas/panchayat.js";
+import { mandals } from "../db/schemas/mandal.js";
+import { zone } from "../db/schemas/zone.js";
+import { assemblies } from "../db/schemas/assembly.js";
+import { inchargeOf } from "../common/functions/inchargeOf.js";
 export const boothsRouter:Router = Router()
 
 

@@ -1,7 +1,7 @@
 import { Router, type Request, type Response } from "express";
 import { db } from "../db";
-import { districts } from "../db/schemas/district";
-import { assemblies } from "../db/schemas/assembly";
+import { districts } from "../db/schemas/district.js";
+import { assemblies } from "../db/schemas/assembly.js";
 
 const router: ReturnType<typeof Router> = Router();
 

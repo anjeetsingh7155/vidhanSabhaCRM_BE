@@ -1,12 +1,12 @@
 import { Router, type Request, type Response } from "express";
 import { db } from "../db";
-import { mandals } from "../db/schemas/mandal";
-import { zone } from "../db/schemas/zone";
-import { assemblies } from "../db/schemas/assembly";
+import { mandals } from "../db/schemas/mandal.js";
+import { zone } from "../db/schemas/zone.js";
+import { assemblies } from "../db/schemas/assembly.js";
 import { eq } from "drizzle-orm";
-import { panchayat } from "../db/schemas/panchayat";
-import { boothRecords } from "../db/schemas/boothRecord";
-import { inchargeOf } from "../common/functions/inchargeOf";
+import { panchayat } from "../db/schemas/panchayat.js";
+import { boothRecords } from "../db/schemas/boothRecord.js";
+import { inchargeOf } from "../common/functions/inchargeOf.js";
 export const mandalsRouter:Router = Router()
 
 

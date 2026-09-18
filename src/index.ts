@@ -1,13 +1,12 @@
 import express, { type Request, type Response } from "express";
 import dotenv from "dotenv";
 import cors from "cors";
-import { Pool } from "pg";
-import { db, testDatabase } from "./db";
-import districtsRouter from "./routes/districts";
-import { zonesRouter } from "./routes/zone";
-import { mandalsRouter } from "./routes/mandals";
-import { panchayatsRouter } from "./routes/panchayats";
-import { boothsRouter } from "./routes/booths";
+import { testDatabase } from "./db";
+import districtsRouter from "./routes/districts.js";
+import { zonesRouter } from "./routes/zone.js";
+import { mandalsRouter } from "./routes/mandals.js";
+import { panchayatsRouter } from "./routes/panchayats.js";
+import { boothsRouter } from "./routes/booths.js";
 const app = express()
 dotenv.config()
 const port = process.env.port

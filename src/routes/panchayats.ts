@@ -1,12 +1,12 @@
 import { Router } from "express";
-import { panchayat } from "../db/schemas/panchayat";
-import { zone } from "../db/schemas/zone";
+import { panchayat } from "../db/schemas/panchayat.js";
+import { zone } from "../db/schemas/zone.js";
 import { db } from "../db";
 import { eq } from "drizzle-orm";
-import { mandals } from "../db/schemas/mandal";
-import { assemblies } from "../db/schemas/assembly";
-import { boothRecords } from "../db/schemas/boothRecord";
-import { inchargeOf } from "../common/functions/inchargeOf";
+import { mandals } from "../db/schemas/mandal.js";
+import { assemblies } from "../db/schemas/assembly.js";
+import { boothRecords } from "../db/schemas/boothRecord.js";
+import { inchargeOf } from "../common/functions/inchargeOf.js";
 
 
 export const panchayatsRouter:Router = Router()
