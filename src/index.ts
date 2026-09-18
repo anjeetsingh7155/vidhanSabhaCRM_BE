@@ -1,7 +1,7 @@
 import express, { type Request, type Response } from "express";
 import dotenv from "dotenv";
 import cors from "cors";
-import { testDatabase } from "./db";
+import { testDatabase } from "./db/index.js";
 import districtsRouter from "./routes/districts.js";
 import { zonesRouter } from "./routes/zone.js";
 import { mandalsRouter } from "./routes/mandals.js";

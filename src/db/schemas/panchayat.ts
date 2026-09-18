@@ -1,5 +1,5 @@
 import { integer, pgTable, serial, varchar } from "drizzle-orm/pg-core";
-import { mandals } from "./mandal";
+import { mandals } from "./mandal.js";
 
 export const panchayat = pgTable("panchayat",{
     id: serial("id").notNull().primaryKey(),

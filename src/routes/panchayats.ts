@@ -1,7 +1,7 @@
 import { Router } from "express";
 import { panchayat } from "../db/schemas/panchayat.js";
 import { zone } from "../db/schemas/zone.js";
-import { db } from "../db";
+import { db } from "../db/index.js";
 import { eq } from "drizzle-orm";
 import { mandals } from "../db/schemas/mandal.js";
 import { assemblies } from "../db/schemas/assembly.js";

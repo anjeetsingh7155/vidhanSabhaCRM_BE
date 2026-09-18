@@ -1,6 +1,5 @@
 import { integer, pgTable, serial, text, varchar } from "drizzle-orm/pg-core";
-import { assemblies } from "./assembly";
-import { isNotNull } from "drizzle-orm";
+import { assemblies } from "./assembly.js";
 
 export const zone = pgTable("zone",{
     id : serial("id").primaryKey().notNull(),

@@ -1,5 +1,5 @@
 import { pgTable, integer, varchar, pgEnum } from "drizzle-orm/pg-core";
-import { districts } from "./district";
+import { districts } from "./district.js";
 
 export const reservationEnum = pgEnum("reservation", ["GEN", "SC", "ST"]);
 

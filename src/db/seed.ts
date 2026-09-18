@@ -3,13 +3,13 @@ import { readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 import { eq, inArray } from "drizzle-orm";
-import { db } from "./index";
-import { districts } from "./schemas/district";
-import { assemblies } from "./schemas/assembly";
-import { zone } from "./schemas/zone";
-import { mandals } from "./schemas/mandal";
-import { panchayat } from "./schemas/panchayat";
-import { boothRecords } from "./schemas/boothRecord";
+import { db } from "./index.js";
+import { districts } from "./schemas/district.js";
+import { assemblies } from "./schemas/assembly.js";
+import { zone } from "./schemas/zone.js";
+import { mandals } from "./schemas/mandal.js";
+import { panchayat } from "./schemas/panchayat.js";
+import { boothRecords } from "./schemas/boothRecord.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 

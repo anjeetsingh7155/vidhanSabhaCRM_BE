@@ -1,5 +1,5 @@
 import { Router, type Request, type Response } from "express";
-import { db } from "../db";
+import { db } from "../db/index.js";
 import { districts } from "../db/schemas/district.js";
 import { assemblies } from "../db/schemas/assembly.js";
 

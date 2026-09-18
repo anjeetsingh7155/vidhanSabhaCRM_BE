@@ -1,5 +1,5 @@
 import { integer, pgTable, serial, text, varchar } from "drizzle-orm/pg-core";
-import { zone } from "./zone";
+import { zone } from "./zone.js";
 
 export const mandals = pgTable("mandals",{
     id : serial("id").notNull().primaryKey(),

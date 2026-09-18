@@ -1,5 +1,5 @@
 import { Router, type Request, type Response } from "express";
-import { db } from "../db";
+import { db } from "../db/index.js";
 import { assemblies } from "../db/schemas/assembly.js";
 import { eq } from "drizzle-orm";
 import { zone } from "../db/schemas/zone.js";

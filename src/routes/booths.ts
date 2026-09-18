@@ -1,6 +1,6 @@
 import { Router, type Request, type Response } from "express";
 import { boothRecords } from "../db/schemas/boothRecord.js";
-import { db } from "../db";
+import { db } from "../db/index.js";
 import { eq } from "drizzle-orm";
 import { panchayat } from "../db/schemas/panchayat.js";
 import { mandals } from "../db/schemas/mandal.js";
